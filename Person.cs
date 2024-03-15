@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace YoutubeHomework
 {
-	class Person : Customer
+	class Person : Customer 
 	{
 		public string FirstName { get; set; }
 		public string LastName { get; set; }
